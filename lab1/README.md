@@ -29,6 +29,7 @@ F1 (macro): 0.71978
 
 ### Error Analysis
 ![alt text](image.png)
+
 The confusion matrix visualization reveals:
 - The model performs best at identifying positive and negative sentiments
 - Neutral sentiment classification appears to be more challenging
