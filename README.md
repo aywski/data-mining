@@ -4,7 +4,7 @@ This repository contains two machine learning laboratory exercises focusing on n
 
 ### Lab 1: Sentiment Analysis
 
-##### [Report](lab1\README.md)
+##### [Report](lab1/README.md)
 
 This lab focuses on evaluating sentiment classification performance using a pre-trained RoBERTa model. Tasks include:
 - Loading and implementing the `cardiffnlp/twitter-roberta-base-sentiment` model
@@ -15,7 +15,7 @@ This lab focuses on evaluating sentiment classification performance using a pre-
 
 ### Lab 2: Time Series Forecasting
 
-##### [Report](lab2\README.md)
+##### [Report](lab2/README.md)
 
 This lab explores time series prediction techniques using the Air Passengers dataset. Tasks include:
 - Preprocessing time series data and creating appropriate train-test splits
